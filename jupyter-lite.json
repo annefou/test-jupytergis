@@ -1,7 +1,0 @@
-{
-  "jupyter-config-data": {
-    "disabledExtensions": [
-      "@jupyter/collaboration-extension"
-    ]
-  }
-}
