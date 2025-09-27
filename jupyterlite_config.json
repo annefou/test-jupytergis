@@ -1,6 +1,6 @@
 {
-  "filesystems": {
-    "rtc": false
+  "jupytergis": {
+    "default_fs": "MEM:"
   }
 }
 
